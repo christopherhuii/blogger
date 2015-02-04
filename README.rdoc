@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is being built to review some of the Rails skills learned from Dev Bootcamp.
 
-Things you may want to cover:
+The main goals of this project are to review basic Rails, learn how to use JavaScript/AJAX in Rails, and refine front-end skills.
 
-* Ruby version
+Source of Instructions for Project: http://tutorials.jumpstartlab.com/projects/blogger.html
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Thanks!
